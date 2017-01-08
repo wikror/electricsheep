@@ -1,0 +1,14 @@
+START
+BEGIN QUESTION TYPE=OPEN
+ID=01
+Taby czy spacje? Uzasadnij odpowiedź.
+END QUESTION
+BEGIN QUESTION TYPE=OPEN
+ID=02
+'Do not go gentle into that good night' - uzupełnij następny wers.
+END QUESTION
+BEGIN QUESTION TYPE=OPEN
+ID=03
+Problem wagonikowy; na torze głównym jest Alef-0 osób, na bocznicy jest ich continuum, ale pociąg porusza się z prędkością 2^Alef-0 większą niż na torze głównym. Czy pociągasz za dźwignię?
+END QUESTION
+END

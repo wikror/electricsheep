@@ -1,0 +1,37 @@
+START
+BEGIN QUESTION
+TYPE RADIO
+ID 420
+ANSW-N 4
+Ile kości jest w ogonie dziobaka?
+ANSW-ID A
+42
+ANSW-ID B
+43
+ANSW-ID C
+44
+ANSW-ID D
+END QUESTION
+BEGIN QUESTION
+TYPE RADIO
+ID 421
+ANSW-N 2
+Taby czy spacje?
+ANSW-ID TABY
+Taby
+ANSW-ID SPACJE
+Spacje
+END QUESTION
+BEGIN QUESTION
+TYPE RADIO
+ID 423
+ANSW-N 3
+Najprzystojniejszym filozofem jest:
+ANSW-ID DP
+Derek Parfit
+ANSW-ID HP
+Hilary Putnam
+ANSW-ID WP
+Władimir Putin
+END QUESTION
+END
